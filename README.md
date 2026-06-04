@@ -18,3 +18,8 @@
     pip install -r requirements.txt # for exact versions
     pip install pandas numpy matplotlib seaborn jupyterlab pyarrow # for latest versions
     ```
+
+### How to Launch Jupyter Lab
+```bash
+jupyter lab
+```
